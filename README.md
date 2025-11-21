@@ -1,2 +1,0 @@
-# Banned-Words
-Banned Words
